@@ -8,6 +8,7 @@ If a machine is currently up the write up will be hidden
 
 ### Machines done
 
-* Cap
-* Knife
-* Spectra
+* Bashed
+* Cap (write-up pending)
+* Knife (write-up pending)
+* Spectra (write-up pending)
